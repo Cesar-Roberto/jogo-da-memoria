@@ -68,7 +68,7 @@ function resetBoard() {
 //função que embaralha as cartas
 (function shuffle() {
     //Esconde a felicitação pela vitória quando a página carrega
-    document.getElementById("win").style.display = "none";
+    // document.getElementById("win").style.display = "none";
     cards.forEach((card) => {
         let randomPosition = Math.floor(Math.random() * 12);
         card.style.order = randomPosition;
