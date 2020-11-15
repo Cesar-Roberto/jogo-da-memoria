@@ -1,0 +1,13 @@
+/*Aplica essas regras pra uma tela de até 700px de largura*/
+@media screen and (max-width:700px){
+    .memory-game {
+        width: 700px;
+        height: 500px;
+        display: flex;
+    }
+
+    .card {
+        height: 25%;
+        width: 30%;
+    }
+}
