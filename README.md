@@ -4,4 +4,4 @@
 
 ## Tencologias Usadas
 
-*HTML, CSS, JavaScript
+* HTML, CSS, JavaScript
